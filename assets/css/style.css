@@ -1,0 +1,167 @@
+.hole-header{
+	margin: 0 auto !important;
+    width: 100% !important;
+    position: fixed;
+    z-index: 99999;
+    transition: all 0.7s ease;
+    left: 0;
+    right: 0;
+    top: 0;
+    text-align: center !important;
+}
+.header-top{
+	background-color: #4DFFBE;
+	text-align:center;
+	width:100%;
+	height:auto;
+}
+
+
+.logo-image img{
+	width:100%;
+	height:auto;
+}
+.main-menu{
+   
+    margin-top:13px;
+    }    
+.main-menu ul{
+	list-style: none;
+	padding: 0;
+
+}
+.main-menu ul:after{
+ content: '';
+ display: block;
+ clear: both;
+}
+.main-menu ul li{
+	float: left;
+	position: relative;
+}
+.main-menu ul li a{
+	text-decoration: none;
+	color:#2C171C;
+	padding: 16px 13px;
+	display: block;
+	font-weight: 500;
+}
+.main-menu ul li ul li a{
+    color:#FFFFFF !important;
+    }
+.main-menu ul li:hover a{
+	color:#ED212A;
+}
+/*.main-menu ul ul li{
+	float:none;
+	width: 250px;
+}
+.main-menu ul ul{
+	position: absolute;
+	top:100%;
+	left: 0;
+	display: none;
+	background:#10102D;
+}
+.main-menu ul li:hover ul{
+	display:block;
+	z-index:1;
+	
+
+}
+
+
+.main-menu ul ul li:hover a{
+	color:#ed212a !important;
+	
+   
+}
+.sub-menu > .menu-item{
+    text-align:left !important;
+  }*/
+.asdf{
+	background-color: #dff9fb;
+	margin-top:127px;
+}
+  #tabs{
+  	width:90%;
+  	height:auto;
+  	margin-left: 4%;
+  	
+  }
+  .header-rof{
+  	margin-top: 2px;
+  	background-color: #222;
+  	color:#FFF;
+  }
+  .list-inline-item .fa{
+  	color:#FFF;
+  }
+  .right-sidebar{
+  	background-color:#130f40;
+  	margin-right: 20px;
+  	margin-left: 50px;
+
+  }
+  .right-sidebar ul{
+  	list-style: none;
+  }
+  .right-sidebar ul li{
+  	margin:5px;
+  	font-size: 18px;
+
+
+  }
+  .main-contant{
+  	position: fixed;
+  	margin-right: 8%;
+  }
+  .right-sidebar ul li a{
+  	text-decoration: none;
+  	color:#FFF;
+  }
+   .main-contant p{
+     text-align: justify;
+   }
+  .right-sidebar ul li:hover a{
+  	background-color:#30336b;
+  	color:#95afc0;
+  }
+  .main-body{
+  	width:90%;
+  	height:auto;
+  }
+  ul li .margintop{
+  	margin-top: 10px !important;
+  }
+  .tab-menu ul li{
+
+  }
+  .footer-body ul{
+  	list-style: none;
+
+  }
+  .footer-body ul li a{
+  	color:#FFF;
+  }
+  .footer-body ul li:hover a{
+  	text-decoration: none;
+  } 
+  .tab-menu ul li a{
+  	font-size: 20px;
+  	color:#000;
+  }
+  .tab-menu ul li:hover a{
+  	text-decoration: none;
+  	color:#eb4d4b;
+  }
+  .footer-widget{
+  	background-color: #6ab04c;
+  }
+ .footer{
+ 	background-color: #1C1C1C;
+ }
+ .footer-text{
+ 	color:#FFFFFF;
+ 	padding-top: 11px;
+ }
